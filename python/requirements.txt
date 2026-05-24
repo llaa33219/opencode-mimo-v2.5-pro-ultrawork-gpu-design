@@ -1,0 +1,3 @@
+kiutils>=1.4.0
+spydrnet>=1.12.0
+PyVerilog>=1.3.0
